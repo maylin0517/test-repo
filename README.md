@@ -1,2 +1,2 @@
 # test-repo
-Creating test repo for demo use.
+coursera test, june 2024
